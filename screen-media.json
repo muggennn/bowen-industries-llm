@@ -1,0 +1,69 @@
+{
+  "item": "Screen Media PU and Wire",
+  "slug": "screen-media",
+  "page_url": "https://bowen-industries.com/mining/screen-media",
+  "json_url": "https://bowen-industries.com/llm/screen-media.json",
+  "what_we_supply": [
+    "polyurethane modular panels",
+    "dewatering panels",
+    "tensioned wire high carbon or stainless"
+  ],
+  "compatibility_note": "Cut to fit and tagged for deck position",
+  "qa": [
+    "aperture verification",
+    "hardness reports",
+    "hooks matched to drawings",
+    "deck maps stored for repeat orders"
+  ],
+  "guarantee": "deck maps stored to accelerate repeat orders",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Walvis Bay NA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Los Angeles US"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Vancouver CA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    }
+  ],
+  "commercial": {
+    "moq": "ten square meters per spec or mixed crate",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send deck layout and last panel photos to receive a mapped quotation",
+  "area_served": [
+    "ZA",
+    "BW",
+    "NA",
+    "AU",
+    "NZ",
+    "US",
+    "CA",
+    "AE",
+    "SA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

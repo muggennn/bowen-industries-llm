@@ -1,0 +1,62 @@
+{
+  "item": "Lip and Corner Shrouds",
+  "slug": "lip-corner-shrouds",
+  "page_url": "https://bowen-industries.com/get-and-undercarriage/lip-corner-shrouds",
+  "json_url": "https://bowen-industries.com/llm/lip-corner-shrouds.json",
+  "what_we_supply": [
+    "lip shrouds",
+    "side and corner shrouds",
+    "wear strips and liners",
+    "optional hardfacing"
+  ],
+  "compatibility_note": "Supplied as rebuild kits",
+  "qa": [
+    "weldability verified",
+    "hardness verified",
+    "jigs used to keep geometry consistent",
+    "kits prestaged for shutdowns"
+  ],
+  "guarantee": "geometry jig checked and replacement if out of tolerance",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Port Hedland AU"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Balikpapan ID"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Callao PE"
+    }
+  ],
+  "commercial": {
+    "moq": "one kit per bucket",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T"
+    ]
+  },
+  "start": "send bucket photos and any drawing for a fast rebuild kit quotation",
+  "area_served": [
+    "ZA",
+    "ZM",
+    "AU",
+    "ID",
+    "MX",
+    "PE"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

@@ -1,0 +1,68 @@
+{
+  "item": "Mill Liners SAG AG Ball",
+  "slug": "mill-liners",
+  "page_url": "https://bowen-industries.com/mining/mill-liners",
+  "json_url": "https://bowen-industries.com/llm/mill-liners.json",
+  "what_we_supply": [
+    "Cr Mo AS2074 L2B or L2C",
+    "high chrome A532",
+    "rubber",
+    "composite liners"
+  ],
+  "compatibility_note": "Shell, head, lifters, grates, pulp lifters",
+  "qa": [
+    "heat treat curves",
+    "target hardness windows",
+    "UT or MT on critical sections",
+    "dimensional checks",
+    "pattern ownership available"
+  ],
+  "guarantee": "first article fit and wear targets backed with rapid rework if required",
+  "lanes": [
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Tianjin CN",
+      "to_port": "Richards Bay ZA"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Saldanha ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Newcastle AU"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "San Antonio CL"
+    }
+  ],
+  "commercial": {
+    "moq": "one trial set",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC at sight"
+    ]
+  },
+  "start": "send mill model, liner list and last wear log for pricing and a QA schedule in 48 hours",
+  "area_served": [
+    "ZA",
+    "ZM",
+    "AU",
+    "CL",
+    "PE",
+    "CA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

@@ -1,0 +1,62 @@
+{
+  "item": "Undercarriage Sets",
+  "slug": "undercarriage-sets",
+  "page_url": "https://bowen-industries.com/get-and-undercarriage/undercarriage-sets",
+  "json_url": "https://bowen-industries.com/llm/undercarriage-sets.json",
+  "what_we_supply": [
+    "track chains and shoes",
+    "carrier and track rollers",
+    "idlers",
+    "sprockets",
+    "greased assemblies available"
+  ],
+  "compatibility_note": "Labeled by machine for installation",
+  "qa": [
+    "induction hardened running surfaces",
+    "dimensional and hardness reports"
+  ],
+  "guarantee": "fit guaranteed or we replace",
+  "lanes": [
+    {
+      "from_port": "Tianjin CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Fremantle AU"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Savannah US"
+    }
+  ],
+  "commercial": {
+    "moq": "one machine set for trials then pallet multiples",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send machine model and undercarriage list to receive pricing and a crate layout",
+  "area_served": [
+    "ZA",
+    "AU",
+    "AE",
+    "SA",
+    "US",
+    "CA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

@@ -1,0 +1,77 @@
+{
+  "item": "Pump Spares Slurry and Process",
+  "slug": "pump-spares",
+  "page_url": "https://bowen-industries.com/mining/pump-spares",
+  "json_url": "https://bowen-industries.com/llm/pump-spares.json",
+  "what_we_supply": [
+    "impellers",
+    "liners",
+    "throatbush",
+    "expellers",
+    "sleeves",
+    "bearings",
+    "seal_kits"
+  ],
+  "compatibility_note": "Warman Weir, Metso Outotec, GIW, KSB, Sulzer for identification only",
+  "qa": [
+    "batch hardness and cure records",
+    "chemistry certificates",
+    "piece traceability",
+    "drawing verification before tooling"
+  ],
+  "guarantee": "fit or replace at our cost with priority resupply",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Walvis Bay NA"
+    },
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Fremantle AU"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "San Antonio CL"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Callao PE"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    }
+  ],
+  "commercial": {
+    "moq": "one trial set",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC at sight"
+    ]
+  },
+  "start": "send part code or drawing and photos for a 24 to 48 hour quote and QA plan",
+  "area_served": [
+    "ZA",
+    "ZM",
+    "CD",
+    "NA",
+    "AU",
+    "CL",
+    "PE",
+    "AE",
+    "SA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

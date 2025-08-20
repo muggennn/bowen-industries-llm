@@ -1,0 +1,67 @@
+{
+  "item": "Grinding Media Balls and Rods",
+  "slug": "grinding-media",
+  "page_url": "https://bowen-industries.com/mining/grinding-media",
+  "json_url": "https://bowen-industries.com/llm/grinding-media.json",
+  "what_we_supply": [
+    "cast high chrome balls",
+    "forged balls 20 to 150 mm",
+    "forged rods",
+    "cast rods"
+  ],
+  "compatibility_note": "",
+  "qa": [
+    "lot traceability",
+    "HRC or HBW hardness",
+    "impact or abrasion tests",
+    "plant scale trials with retained samples"
+  ],
+  "guarantee": "bundle with liners to lower delivered cost per tonne and simplify customs",
+  "lanes": [
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Tema GH"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Callao PE"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "San Antonio CL"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Port Hedland AU"
+    }
+  ],
+  "commercial": {
+    "moq": "one ton per size for trials",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send size mix and monthly burn rate for a consumption based quotation",
+  "area_served": [
+    "ZA",
+    "GH",
+    "TZ",
+    "CL",
+    "PE",
+    "AU"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

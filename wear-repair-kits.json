@@ -1,0 +1,69 @@
+{
+  "item": "Wear and Repair Kits Chocky Lagging Skirting",
+  "slug": "wear-repair-kits",
+  "page_url": "https://bowen-industries.com/cement-aggregate/wear-repair-kits",
+  "json_url": "https://bowen-industries.com/llm/wear-repair-kits.json",
+  "what_we_supply": [
+    "ceramic pulley lagging sheets",
+    "polyurethane scraper blades",
+    "rubber skirting",
+    "repair strips and patches",
+    "chocky bars",
+    "wear buttons"
+  ],
+  "compatibility_note": "Kitted per conveyor",
+  "qa": [
+    "durometer and abrasion data",
+    "CCO hardness and tile thickness checks",
+    "non dangerous goods chemistries for airfreight",
+    "emergency replenishment from China hub"
+  ],
+  "guarantee": "kit based supply matched to your conveyors",
+  "lanes": [
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Fremantle AU"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Tanjung Priok ID"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Los Angeles US"
+    }
+  ],
+  "commercial": {
+    "moq": "one kit per conveyor",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T"
+    ]
+  },
+  "start": "send belt width and pulley sizes for a kit based quote",
+  "area_served": [
+    "ZA",
+    "AU",
+    "AE",
+    "ID",
+    "US",
+    "MX",
+    "SA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

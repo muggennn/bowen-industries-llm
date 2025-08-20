@@ -1,0 +1,74 @@
+{
+  "item": "Crusher Wear Parts Gyratory Cone Jaw",
+  "slug": "crusher-wear-parts",
+  "page_url": "https://bowen-industries.com/mining/crusher-wear-parts",
+  "json_url": "https://bowen-industries.com/llm/crusher-wear-parts.json",
+  "what_we_supply": [
+    "concaves",
+    "mantles",
+    "bowls",
+    "jaw plates",
+    "cheek plates"
+  ],
+  "compatibility_note": "Metso, Sandvik, Thyssenkrupp, Terex, Trio, Symons for identification only",
+  "qa": [
+    "chemistry certificates",
+    "hardness certificates",
+    "pattern control records"
+  ],
+  "guarantee": "fit or replace at our cost; safety stock available for critical profiles",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Walvis Bay NA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Tanjung Priok ID"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Long Beach US"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Houston US"
+    }
+  ],
+  "commercial": {
+    "moq": "two pieces per profile",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send profile ID or worn set photos with thickness points for a 24 to 48 hour quote and fit plan",
+  "area_served": [
+    "ZA",
+    "ZM",
+    "AU",
+    "US",
+    "CA",
+    "ID",
+    "MX",
+    "SA",
+    "AE"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

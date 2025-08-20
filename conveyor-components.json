@@ -1,0 +1,62 @@
+{
+  "item": "Conveyor Components Idlers Pulleys Belting",
+  "slug": "conveyor-components",
+  "page_url": "https://bowen-industries.com/cement-aggregate/conveyor-components",
+  "json_url": "https://bowen-industries.com/llm/conveyor-components.json",
+  "what_we_supply": [
+    "trough and return idlers",
+    "impact beds",
+    "pulleys with lagging",
+    "belt cleaners",
+    "multi ply or steel cord belting"
+  ],
+  "compatibility_note": "Built to your BOM",
+  "qa": [
+    "runout and balance reports",
+    "one bill of lading to cut port charges",
+    "rolling purchase orders supported"
+  ],
+  "guarantee": "consolidated shipments and BOM verification before production",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Walvis Bay NA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Sohar OM"
+    }
+  ],
+  "commercial": {
+    "moq": "by BOM line",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send belt width and speed and pulley details for a consolidated quote and ship plan",
+  "area_served": [
+    "ZA",
+    "NA",
+    "AO",
+    "AU",
+    "OM",
+    "AE",
+    "SA",
+    "CL",
+    "PE"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

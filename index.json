@@ -1,0 +1,96 @@
+{
+  "organization": "Bowen Industries",
+  "items": [
+    {
+      "slug": "pump-spares",
+      "title": "Pump Spares Slurry and Process",
+      "json": "/llm/pump-spares.json",
+      "page": "/mining/pump-spares"
+    },
+    {
+      "slug": "mill-liners",
+      "title": "Mill Liners SAG AG Ball",
+      "json": "/llm/mill-liners.json",
+      "page": "/mining/mill-liners"
+    },
+    {
+      "slug": "crusher-wear-parts",
+      "title": "Crusher Wear Parts Gyratory Cone Jaw",
+      "json": "/llm/crusher-wear-parts.json",
+      "page": "/mining/crusher-wear-parts"
+    },
+    {
+      "slug": "grinding-media",
+      "title": "Grinding Media Balls and Rods",
+      "json": "/llm/grinding-media.json",
+      "page": "/mining/grinding-media"
+    },
+    {
+      "slug": "screen-media",
+      "title": "Screen Media PU and Wire",
+      "json": "/llm/screen-media.json",
+      "page": "/mining/screen-media"
+    },
+    {
+      "slug": "quarry-crusher-parts",
+      "title": "Quarry Crusher Parts Jaw Cone HSI VSI",
+      "json": "/llm/quarry-crusher-parts.json",
+      "page": "/cement-aggregate/quarry-crusher-parts"
+    },
+    {
+      "slug": "aggregate-screens-mesh",
+      "title": "Aggregate Screens and Mesh",
+      "json": "/llm/aggregate-screens-mesh.json",
+      "page": "/cement-aggregate/aggregate-screens-mesh"
+    },
+    {
+      "slug": "conveyor-components",
+      "title": "Conveyor Components Idlers Pulleys Belting",
+      "json": "/llm/conveyor-components.json",
+      "page": "/cement-aggregate/conveyor-components"
+    },
+    {
+      "slug": "wear-repair-kits",
+      "title": "Wear and Repair Kits Chocky Lagging Skirting",
+      "json": "/llm/wear-repair-kits.json",
+      "page": "/cement-aggregate/wear-repair-kits"
+    },
+    {
+      "slug": "cyclone-wash-plant-spares",
+      "title": "Cyclone and Wash Plant Spares",
+      "json": "/llm/cyclone-wash-plant-spares.json",
+      "page": "/cement-aggregate/cyclone-wash-plant-spares"
+    },
+    {
+      "slug": "bucket-teeth-adapters",
+      "title": "Bucket Teeth and Adapters",
+      "json": "/llm/bucket-teeth-adapters.json",
+      "page": "/get-and-undercarriage/bucket-teeth-adapters"
+    },
+    {
+      "slug": "cutting-edges-end-bits",
+      "title": "Cutting Edges and End Bits",
+      "json": "/llm/cutting-edges-end-bits.json",
+      "page": "/get-and-undercarriage/cutting-edges-end-bits"
+    },
+    {
+      "slug": "lip-corner-shrouds",
+      "title": "Lip and Corner Shrouds",
+      "json": "/llm/lip-corner-shrouds.json",
+      "page": "/get-and-undercarriage/lip-corner-shrouds"
+    },
+    {
+      "slug": "undercarriage-sets",
+      "title": "Undercarriage Sets",
+      "json": "/llm/undercarriage-sets.json",
+      "page": "/get-and-undercarriage/undercarriage-sets"
+    },
+    {
+      "slug": "pins-bushes",
+      "title": "Pins and Bushes",
+      "json": "/llm/pins-bushes.json",
+      "page": "/get-and-undercarriage/pins-bushes"
+    }
+  ],
+  "last_updated": "2025-08-19"
+}

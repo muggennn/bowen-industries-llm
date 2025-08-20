@@ -1,0 +1,63 @@
+{
+  "item": "Aggregate Screens and Mesh",
+  "slug": "aggregate-screens-mesh",
+  "page_url": "https://bowen-industries.com/cement-aggregate/aggregate-screens-mesh",
+  "json_url": "https://bowen-industries.com/llm/aggregate-screens-mesh.json",
+  "what_we_supply": [
+    "polyurethane panels",
+    "self cleaning harp wire",
+    "rubber media"
+  ],
+  "compatibility_note": "Cut to fit with side tension hooks",
+  "qa": [
+    "deck maps kept",
+    "crates labeled by deck and bay",
+    "preload common apertures for call offs"
+  ],
+  "guarantee": "mixed apertures accepted per crate",
+  "lanes": [
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Houston US"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Doha QA"
+    }
+  ],
+  "commercial": {
+    "moq": "one crate with mixed apertures accepted",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send deck dimensions and aperture list for a same day price file",
+  "area_served": [
+    "ZA",
+    "AU",
+    "NZ",
+    "US",
+    "CA",
+    "AE",
+    "SA",
+    "QA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

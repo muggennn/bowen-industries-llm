@@ -1,0 +1,66 @@
+{
+  "item": "Cyclone and Wash Plant Spares",
+  "slug": "cyclone-wash-plant-spares",
+  "page_url": "https://bowen-industries.com/cement-aggregate/cyclone-wash-plant-spares",
+  "json_url": "https://bowen-industries.com/llm/cyclone-wash-plant-spares.json",
+  "what_we_supply": [
+    "hydrocyclone cones",
+    "spigots",
+    "liners in polyurethane or rubber",
+    "classifier wear parts",
+    "pump items for sand plants"
+  ],
+  "compatibility_note": "Dimension matched to common housings",
+  "qa": [
+    "compound hardness and abrasion tests",
+    "first article samples available",
+    "repeat tooling retained"
+  ],
+  "guarantee": "first article available before roll out",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Tianjin CN",
+      "to_port": "Richards Bay ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Port Klang MY"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Tanjung Pelepas MY"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Callao PE"
+    }
+  ],
+  "commercial": {
+    "moq": "one set per cyclone size",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send cyclone model and aperture set for a 24 to 48 hour quotation",
+  "area_served": [
+    "ZA",
+    "AU",
+    "MY",
+    "CL",
+    "PE"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

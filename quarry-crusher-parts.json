@@ -1,0 +1,61 @@
+{
+  "item": "Quarry Crusher Parts Jaw Cone HSI VSI",
+  "slug": "quarry-crusher-parts",
+  "page_url": "https://bowen-industries.com/cement-aggregate/quarry-crusher-parts",
+  "json_url": "https://bowen-industries.com/llm/quarry-crusher-parts.json",
+  "what_we_supply": [
+    "jaw dies",
+    "cone mantles and bowls",
+    "HSI blow bars and breaker plates",
+    "VSI rotor tips and liners"
+  ],
+  "compatibility_note": "Metso, Sandvik, Terex, Powerscreen, McCloskey for identification only",
+  "qa": [
+    "chemistry certificates",
+    "hardness certificates",
+    "prefit critical castings on jigs",
+    "mixed SKUs staged for shutdowns"
+  ],
+  "guarantee": "fit checked on jigs and replacement if out of tolerance",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jakarta ID"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    }
+  ],
+  "commercial": {
+    "moq": "two pieces per profile",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send crusher model and profile code or worn set photos with ruler for a 24 to 48 hour quote",
+  "area_served": [
+    "ZA",
+    "US",
+    "CA",
+    "AU",
+    "ID",
+    "MY",
+    "AE",
+    "SA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

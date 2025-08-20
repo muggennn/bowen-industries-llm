@@ -1,0 +1,64 @@
+{
+  "item": "Cutting Edges and End Bits",
+  "slug": "cutting-edges-end-bits",
+  "page_url": "https://bowen-industries.com/get-and-undercarriage/cutting-edges-end-bits",
+  "json_url": "https://bowen-industries.com/llm/cutting-edges-end-bits.json",
+  "what_we_supply": [
+    "dozer and loader cutting edges",
+    "end bits straight or serrated",
+    "drilled to pattern"
+  ],
+  "compatibility_note": "Sets packed per machine for fast changeout",
+  "qa": [
+    "emergency lengths held in China",
+    "flatness and hole checks"
+  ],
+  "guarantee": "pattern checked and holes verified before shipment",
+  "lanes": [
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Richards Bay ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Fremantle AU"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Jebel Ali AE"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Houston US"
+    }
+  ],
+  "commercial": {
+    "moq": "one set per machine",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send machine model and edge drawing for a 24 to 48 hour quote",
+  "area_served": [
+    "ZA",
+    "AU",
+    "AE",
+    "SA",
+    "US",
+    "CA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

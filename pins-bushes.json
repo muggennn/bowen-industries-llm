@@ -1,0 +1,63 @@
+{
+  "item": "Pins and Bushes",
+  "slug": "pins-bushes",
+  "page_url": "https://bowen-industries.com/get-and-undercarriage/pins-bushes",
+  "json_url": "https://bowen-industries.com/llm/pins-bushes.json",
+  "what_we_supply": [
+    "precision ground pins",
+    "bushes chromed or induction hardened",
+    "linkage kits"
+  ],
+  "compatibility_note": "Made to drawing or machine model",
+  "qa": [
+    "diameter and hardness verification",
+    "pairs packed together"
+  ],
+  "guarantee": "dimensional checks included, replacement if out of tolerance",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Fremantle AU"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Vancouver CA"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Houston US"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Callao PE"
+    }
+  ],
+  "commercial": {
+    "moq": "one linkage kit",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T"
+    ]
+  },
+  "start": "send drawing or model and measured bores for a 24 to 48 hour quote",
+  "area_served": [
+    "ZA",
+    "AU",
+    "US",
+    "CA",
+    "CL",
+    "PE"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}

@@ -1,0 +1,66 @@
+{
+  "item": "Bucket Teeth and Adapters",
+  "slug": "bucket-teeth-adapters",
+  "page_url": "https://bowen-industries.com/get-and-undercarriage/bucket-teeth-adapters",
+  "json_url": "https://bowen-industries.com/llm/bucket-teeth-adapters.json",
+  "what_we_supply": [
+    "teeth",
+    "adapters",
+    "pins and retainers"
+  ],
+  "compatibility_note": "CAT Komatsu Hitachi Volvo Liebherr SANY for identification only",
+  "qa": [
+    "common profiles as work in progress",
+    "hardness certs",
+    "piece marking"
+  ],
+  "guarantee": "fit or replace at our cost",
+  "lanes": [
+    {
+      "from_port": "Ningbo CN",
+      "to_port": "Durban ZA"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Fremantle AU"
+    },
+    {
+      "from_port": "Shanghai CN",
+      "to_port": "Tanjung Priok ID"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Manzanillo MX"
+    },
+    {
+      "from_port": "Qingdao CN",
+      "to_port": "Los Angeles US"
+    }
+  ],
+  "commercial": {
+    "moq": "ten teeth for stock or one set for trial",
+    "incoterms": [
+      "FOB",
+      "CIF"
+    ],
+    "payment": [
+      "T T",
+      "LC"
+    ]
+  },
+  "start": "send machine model and tooth system code for a same day match and price",
+  "area_served": [
+    "ZA",
+    "AU",
+    "ID",
+    "CL",
+    "PE",
+    "US",
+    "CA"
+  ],
+  "contact": {
+    "email": "a.a@bowen-industries.com",
+    "whatsapp": "+8619879266140"
+  },
+  "last_updated": "2025-08-19"
+}
