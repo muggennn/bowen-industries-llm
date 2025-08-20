@@ -1,0 +1,14 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Bowen Industries Procurement Data",
+  "name_for_model": "BowenIndustriesProcurement",
+  "description_for_human": "Structured JSON describing Bowen Industries' procurement verticals for mining, cement & aggregate, and GET.",
+  "description_for_model": "Supplier metadata, verticals, and product categories (pump spares, mill liners, quarry crusher parts, GET) from Bowen Industries.",
+  "auth": { "type": "none" },
+  "api": {
+    "type": "openapi",
+    "url": "https://yourname.github.io/bowen-llm-data/openapi.yaml"
+  },
+  "contact_email": "a.a@bowen-industries.com",
+  "legal_info_url": "https://bowen-industries.com"
+}
